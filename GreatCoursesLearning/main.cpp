@@ -6,10 +6,15 @@
 //  Copyright © 2020 AmyFox. All rights reserved.
 //
 
-#include <iostream>
+// Program 1_1
+// Our first program
+# include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+int main() // function named main
+{
+    cout << "Amy Fox" << endl << "4545 Wheaton Dr Unit F150" << endl << "Fort Collins, CO 80525" << endl;
+
 }
+
+
